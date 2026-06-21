@@ -62,6 +62,10 @@ url = "LINK_DA_IMAGEM"
    - Tempo de processamento
 
 
+## Tabela comparativa
+<img width="605" height="211" alt="image" src="https://github.com/user-attachments/assets/55f1a558-193b-415f-bfdf-6b06bccdc76d" />
+
+
 ## Resultados
 
 Os testes demonstraram diferenças significativas entre as versões do ViT. O modelo ViT-Base apresentou menor tempo de inferência, sendo mais rápido, enquanto o ViT-Large apresentou maior custo computacional.
