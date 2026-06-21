@@ -63,7 +63,8 @@ url = "LINK_DA_IMAGEM"
 
 
 ## Tabela comparativa
-<img width="605" height="211" alt="image" src="https://github.com/user-attachments/assets/55f1a558-193b-415f-bfdf-6b06bccdc76d" />
+<img width="605" height="211" alt="image" src="https://github.com/user-attachments/assets/8e0fd611-2f70-4d73-98db-233057f87925" />
+
 
 
 ## Resultados
